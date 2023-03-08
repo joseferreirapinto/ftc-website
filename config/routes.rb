@@ -5,4 +5,7 @@ Rails.application.routes.draw do
   root to: "pages#home"
   get "about", to: "pages#about"
   get "contact", to: "pages#contact"
+  get "program", to: "pages#program"
+  get "gallery", to: "pages#gallery"
+
 end

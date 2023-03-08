@@ -7,4 +7,10 @@ class PagesController < ApplicationController
 
   def contact
   end
+
+  def program
+  end
+
+  def gallery    
+  end
 end
